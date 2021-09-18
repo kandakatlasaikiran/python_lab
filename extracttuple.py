@@ -15,4 +15,4 @@ for sub in temp:
 		res.add(ele)
 
 # printing result
-print sort(("The extracted digits : " + str(res)))
+print ("The extracted digits : " + str(res))
